@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Véronique Cambier"« La fonction que j’assigne aux objets, au-delà de leur éventuel usage, est de redonner du sens aux gestes et une valeur au temps… » Jean Girel,
+  "title": "Véronique Cambier",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",

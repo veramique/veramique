@@ -44,7 +44,7 @@ footer {
 }
 
 footer::before {
-  content: "« BONJOUR";
+  content: "BONJOUR";
   color: #f27b43;
   font-size: 1.15rem;
   margin-bottom: 20px;

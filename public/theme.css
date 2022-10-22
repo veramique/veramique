@@ -196,7 +196,7 @@ footer {
 }
 
 footer::before {
-  content: "BONJOUR";
+  content: "La fonction que j’assigne aux objets, au-delà de leur éventuel usage, est de redonner du sens aux gestes et une valeur au temps.";
   color: #f27b43;
   font-size: 1.15rem;
   margin-bottom: 20px;

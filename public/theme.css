@@ -181,7 +181,7 @@ h1 a {
 
 h1::after {
   color: #F6F6F6;
-  content: "portes ouvertes ve 2 déc (17h-22h),sa 3 (11h-21h)";
+  content: "portes ouvertes ve 2 déc (17h-22h)    sa 3 (11h-22h)";
   font-size: 1.8rem;
   float: right;
   text-align: right;

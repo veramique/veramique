@@ -29,3 +29,4 @@ Site statique généré avec Github Pages Gallery, qui utilise Thumbsup & Github
 - **Changer le sous-titre** Ouvrir le fichier [custom.css](https://github.com/veramique/veramique/edit/master/custom.css) avec le bouton d'édition (crayon) et modifier la phrase en question entre guillemets (ligne 32)
 - **Changer la citation de bas de page** Ouvrir le fichier [custom.css](https://github.com/veramique/veramique/edit/master/custom.css) avec le bouton d'édition (crayon) et modifier la phrase en question entre guillemets (ligne 47)
 - **Photo d'album** la première par ordre alphabétique. Préfixer d'un underscore "_" pour plus de facilié
+- Attention, pour faire apparaitre les changements effectués sur le fichier custom.css, il faut rafraichir la page tout en appuyant sur la touche shift  (par exemple: shift + f5). Sinon, le navigateur utilise ce qu'il a précédemment mis "en cache".

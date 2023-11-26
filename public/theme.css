@@ -181,7 +181,7 @@ h1 a {
 
 h1::after {
   color: #F6F6F6;
-  content: ;
+  content:"Marché de Noël 16 et 17 décembre à Andenne" ;
   font-size: 2rem;
   float: right;
   text-align: right;

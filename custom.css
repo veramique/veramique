@@ -29,7 +29,7 @@ h1 a {
 
 h1::after {
   color: #F6F6F6;
-  content:"Bonjour" ;
+  content:"Bonjour";
   font-size: 2rem;
   float: right;
   text-align: right;
